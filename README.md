@@ -1,2 +1,3 @@
-# docker-quarkus-base
-Docker image for onecx Quarkus application
+# docker-quarkus-jvm
+
+Docker image for onecx Quarkus JVM application
