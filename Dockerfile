@@ -1,4 +1,5 @@
-FROM registry.access.redhat.com/ubi9/openjdk-21:1.24-2.1776048104
+FROM registry.access.redhat.com/ubi9/openjdk-25-runtime:1.24-2.1776357026
+
 
 ENV LANGUAGE='en_US:en'
 ENV JAVA_OPTS="-Dquarkus.http.host=0.0.0.0 -Djava.util.logging.manager=org.jboss.logmanager.LogManager"
