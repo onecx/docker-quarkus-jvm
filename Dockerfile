@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/openjdk-25-runtime:1.24-2.1778501186
+FROM registry.access.redhat.com/ubi9/openjdk-25-runtime:1.24-2.1779791370
 
 
 ENV LANGUAGE='en_US:en'
