@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi10/openjdk-25-runtime:1.24-11
+FROM registry.access.redhat.com/ubi10/openjdk-25-runtime:1.24-13
 
 
 ENV LANGUAGE='en_US:en'
